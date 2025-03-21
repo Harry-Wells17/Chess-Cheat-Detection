@@ -197,7 +197,6 @@ def plot_graph(data_array, cheat_array, title, x_label):
 
       plt.show()
 
-'''
 plot_graph(cpl_array1, cheater_array1, "2299 < ELO < 3191", "Average Centipawn Loss")
 plot_graph(cpl_array2, cheater_array2, "2199 < ELO < 2300", "Average Centipawn Loss")
 plot_graph(cpl_array3, cheater_array3, "1999 < ELO < 2200", "Average Centipawn Loss")
@@ -221,4 +220,3 @@ plot_graph(blunder_array4, cheater_array4, "1799 < ELO < 2000", "Blunder %")
 plot_graph(blunder_array5, cheater_array5, "1599 < ELO < 1800", "Blunder %")
 plot_graph(blunder_array6, cheater_array6, "1399 < ELO < 1600", "Blunder %")
 plot_graph(blunder_array7, cheater_array7, "1319 < ELO < 1400", "Blunder %")
-'''

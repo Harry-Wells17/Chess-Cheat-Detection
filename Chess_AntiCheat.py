@@ -339,7 +339,6 @@ def analyse_games(input_pgn, white_cheater, black_cheater):
 
 output_file = "/Users/harry/Documents/Project_Git/hxw285/real_games.pgn"
 
-'''
 open(output_file, "w").close() # Clears file
 
 parse_pgn(pgn_path, 2299, 3191, output_file)
@@ -358,7 +357,6 @@ analyse_games(cheat_pgn_2_white, 1, 0)
 analyse_games(cheat_pgn_2_black, 0, 1)
 analyse_games(cheat_pgn_3_white, 1, 0)
 analyse_games(cheat_pgn_3_black, 0, 1)
-'''
 
 analyse_single_game("/Users/harry/Downloads/Magnus-Carlsen_vs_Jose-Carlos-Ibarra-Jerez_2025.01.07.pgn")
 

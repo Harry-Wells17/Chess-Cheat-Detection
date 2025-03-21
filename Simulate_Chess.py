@@ -3,10 +3,6 @@ import chess.engine
 import chess.pgn
 import random
 
-# IDEAS:
-# - For cheater, it only uses stockfish when they are in a bad position
-# - Or, it can switch from ELO to stockfish every couple of moves (to simulate them trying to avoid being caught cheating)
-
 Stockfish_path = "/opt/homebrew/Cellar/stockfish/17/bin/stockfish"
 
 engine = chess.engine.SimpleEngine.popen_uci(Stockfish_path)
