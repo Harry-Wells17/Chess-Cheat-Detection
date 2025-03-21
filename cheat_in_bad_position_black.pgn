@@ -1,0 +1,168 @@
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 2320)"]
+[Black "Cheater (ELO: 2431)"]
+[Result "0-1"]
+[WhiteElo "2320"]
+[BlackElo "2431"]
+
+1. g3 Nf6 2. c4 c6 3. d4 g6 4. b3 d5 5. Nf3 a5 6. Nc3 Ne4 7. Bd2 Bg7 8. cxd5 Nxd2 9. Nxd2 c5 10. e3 cxd4 11. Bb5+ Bd7 12. Bxd7+ Kf8 13. exd4 Nxd7 14. Nc4 h5 15. O-O h4 16. Rc1 Nb6 17. g4 h3 18. Ne3 a4 19. f4 axb3 20. axb3 Nc8 21. Nc4 Nd6 22. Qd3 Rh4 23. Qg3 Bxd4+ 24. Kh1 Rh8 25. Qd3 Bxc3 26. Qxc3 Rh7 27. Qe5 b5 28. Nd2 Ra6 29. f5 g5 30. Nf3 Rg7 31. Nd4 Ne8 32. Rfe1 Ra8 33. b4 Nf6 34. Nxb5 Qxd5+ 35. Qxd5 Nxd5 36. Nd4 Nf6 37. b5 Rg8 38. b6 Rb8 39. Rc6 Nxg4 40. Rb1 Kg7 41. Kg1 Rgd8 42. Rb4 Nf6 43. Kf1 Nd5 44. Rb5 Nf6 45. Rxf6 exf6 46. Nc6 Rxb6 47. Rxb6 Rd6 48. Ke2 Kh6 49. Kf3 Kh5 50. Rb8 Rd3+ 51. Ke2 Rd5 52. Kf3 Rd3+ 53. Ke2 Rd5 54. Nb4 Rc5 55. Ke3 Rxf5 56. Rg8 Re5+ 57. Kf2 Kg4 58. Nd3 Re7 59. Rd8 Ra7 60. Rd4+ Kh5 61. Rd6 Kh4 62. Kf3 g4+ 63. Ke3 Kg5 64. Rd8 f5 65. Re8 Ra1 66. Rb8 f6 67. Rd8 Ra2 68. Rh8 Ra3 69. Kd2 Ra7 70. Ke2 f4 71. Rg8+ Kh6 72. Kf1 f5 73. Nxf4 Ra1+ 74. Kf2 Ra3 75. Kg1 Ra1+ 76. Kf2 Ra3 77. Ne6 Kh5 78. Ke2 Ra2+ 79. Ke3 Rxh2 80. Nf4+ Kh6 81. Rf8 Rc2 82. Rh8+ Kg5 83. Rh5+ Kf6 84. Rh6+ Kg5 85. Rh5+ Kf6 86. Rh7 Rc4 87. Rb7 Re4+ 88. Kf2 Rxf4+ 89. Kg1 Ra4 90. Rb3 Ra2 91. Rb2 Rxb2 92. Kh1 Ke6 93. Kg1 Kf6 94. Kh1 Rf2 95. Kg1 Rg2+ 96. Kf1 Ra2 97. Ke1 Kg5 98. Kf1 Rg2 99. Ke1 h2 100. Kf1 Ra2 101. Ke1 h1=R# 0-1
+
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 2278)"]
+[Black "Cheater (ELO: 2278)"]
+[Result "0-1"]
+[WhiteElo "2278"]
+[BlackElo "2278"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 Qg5 5. Kf1 c6 6. Nce2 Qh5 7. c3 Nxe2 8. Qxe2 Qxe2+ 9. Bxe2 h5 10. Nf3 Bd6 11. d4 exd4 12. e5 Bc7 13. cxd4 h4 14. Bf4 Ne7 15. h3 a5 16. Bd3 b6 17. Ke2 Nd5 18. Bd2 Ba6 19. Rae1 Bd8 20. g4 Bxd3+ 21. Kxd3 b5 22. Re4 a4 23. g5 Ba5 24. Rc1 a3 25. b3 Bxd2 26. Rc5 Ba5 27. Rxd5 cxd5 28. Rg4 Rc8 29. Ng1 Rg8 30. Ne2 Bb6 31. Nf4 Rc1 32. Nxd5 Bd8 33. Ne3 g6 34. d5 Ra1 35. Rxh4 Rxa2 36. e6 Rxf2 37. Nc2 Bxg5 38. d6 Bxh4 39. exd7+ Kxd7 40. Ne1 a2 41. Ng2 a1=Q 42. Ke3 Qc3+ 43. Ke4 Qb4+ 44. Ke3 Qc3+ 45. Ke4 Kxd6 46. Nf4 Qb4+ 47. Ke3 Re8+ 48. Kd3 Rd2# 0-1
+
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 2012)"]
+[Black "Cheater (ELO: 2164)"]
+[Result "0-1"]
+[WhiteElo "2012"]
+[BlackElo "2164"]
+
+1. e4 c5 2. Bc4 Nf6 3. e5 d5 4. Bd3 Ng8 5. Bb5+ Bd7 6. a4 e6 7. d4 cxd4 8. Nf3 Ne7 9. Qxd4 Nbc6 10. Qf4 Qb8 11. c4 Ng6 12. Qg3 h5 13. Bxc6 Bxc6 14. h4 dxc4 15. Nbd2 Bb4 16. O-O Bd5 17. Rd1 O-O 18. Nf1 Be7 19. Ne3 Bc6 20. Bd2 Rc8 21. a5 b6 22. Bc3 Qc7 23. Nd4 Bxh4 24. Nxe6 Qe7 25. Qh3 Qxe6 26. g4 hxg4 27. Qh2 Rd8 28. axb6 Rxd1+ 29. Rxd1 axb6 30. Rd6 Ra1+ 31. Be1 Rxe1+ 32. Nf1 Bf3 33. b3 Qf5 34. Qf4 Rxf1+ 35. Kh2 Qxf4# 0-1
+
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 1911)"]
+[Black "Cheater (ELO: 1968)"]
+[Result "0-1"]
+[WhiteElo "1911"]
+[BlackElo "1968"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 d5 4. c3 Bd6 5. e3 O-O 6. Ne5 c5 7. Be2 Nc6 8. Nxc6 bxc6 9. dxc5 Bxf4 10. exf4 a5 11. Qa4 Nd7 12. b3 Nxc5 13. Qd4 Qd6 14. Nd2 h6 15. Qe3 Re8 16. O-O Nd7 17. Rad1 Ba6 18. Ne4 Qa3 19. Bxa6 Red8 20. Qe2 dxe4 21. Bb7 Rab8 22. Bxc6 Nf6 23. Ba4 Rxd1 24. Qxd1 Qxa2 25. c4 e3 26. Qd3 Qd2 27. Qxd2 exd2 28. f3 Rd8 29. g3 d1=Q 30. Rxd1 Rxd1+ 31. Kg2 Kf8 32. Kf2 Rd6 33. Bb5 Rd2+ 34. Ke1 Rxh2 35. Kd1 Rh1+ 36. Kc2 Ke7 37. Kd3 Ra1 38. Kd4 Rb1 39. f5 Rd1+ 40. Kc5 Nd7+ 41. Kc6 Rd6+ 42. Kb7 exf5 43. Bxd7 Rxd7+ 44. Kc8 Rd3 45. g4 f4 46. g5 h5 47. b4 axb4 48. c5 b3 49. g6 fxg6 50. c6 Ke6 51. Kc7 b2 52. Kc8 Rc3 53. Kb8 b1=Q+ 54. Ka8 Re3 55. Ka7 Re2 56. Ka8 Rc2 57. Ka7 Rc3 58. Ka8 Rd3 59. Ka7 Ra3# 0-1
+
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 1665)"]
+[Black "Cheater (ELO: 1751)"]
+[Result "0-1"]
+[WhiteElo "1665"]
+[BlackElo "1751"]
+
+1. c4 e5 2. g3 Nf6 3. a3 Nc6 4. d3 Bc5 5. Nf3 d5 6. b4 e4 7. dxe4 dxe4 8. Qxd8+ Nxd8 9. bxc5 exf3 10. Bb2 Bg4 11. h3 Bd7 12. exf3 Bc6 13. Bd3 Ne6 14. Bxf6 Bxf3 15. Rg1 Bc6 16. Bc3 O-O-O 17. Bc2 Nd4 18. Bxd4 Rxd4 19. f4 Rxc4 20. Bd3 Rxc5 21. Kf2 Rd8 22. Be2 Rc2 23. a4 Be4 24. Re1 Bd3 25. Ra3 Rxe2+ 26. Rxe2 Bxb1 27. g4 Rd4 28. Kf3 Kd7 29. Rc3 b6 30. Rb3 Bd3 31. Re3 Bc4 32. Rb1 a5 33. Kg3 Ba2 34. Rbe1 Rxa4 35. h4 b5 36. g5 Bd5 37. R3e2 b4 38. Kf2 b3 39. Re3 Kd6 40. Rb1 Rxf4+ 41. Ke2 Rd4 42. Rexb3 c6 43. Rh3 Rb4 44. Rg1 Rd4 45. h5 a4 46. Ke3 Re4+ 47. Kd2 Ke5 48. Rc3 Rd4+ 49. Kc1 g6 50. Rf1 Rg4 51. hxg6 hxg6 52. Ra3 Be6 53. Rf2 Bb3 54. Ra1 Rg1+ 55. Kb2 Rxg5 56. Raf1 Kd6 57. Ka3 Rg3 58. Rf4 Bc4+ 59. Kb2 Bxf1 60. Rf6+ Kc5 61. Rxf7 Bh3 62. Rf4 a3+ 63. Ka1 Rg1+ 64. Ka2 Be6+ 65. Rc4+ Bxc4+ 66. Kxa3 Rb1 67. Ka4 Kb6 68. Ka3 Kc5 69. Ka4 Rb3 70. Ka5 Rh3 71. Ka4 Rf3 72. Ka5 Rf7 73. Ka4 Ra7# 0-1
+
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 1418)"]
+[Black "Cheater (ELO: 1448)"]
+[Result "0-1"]
+[WhiteElo "1418"]
+[BlackElo "1448"]
+
+1. e4 c5 2. Bc4 Nf6 3. d3 d5 4. Bxd5 Nxd5 5. exd5 Qxd5 6. Kf1 Nc6 7. Bd2 Bf5 8. f4 e6 9. Nc3 Qd6 10. Ke1 Rd8 11. Ne4 Qc7 12. Nf2 c4 13. c3 Bxd3 14. Nf3 Bc5 15. Nxd3 Rxd3 16. Qc2 h6 17. b4 Be3 18. g3 Qb6 19. Rd1 Bxd2+ 20. Nxd2 Qe3+ 21. Kf1 O-O 22. Rg1 Rxc3 23. Qe4 Rd8 24. Qb1 Rcd3 25. Qb2 Rxd2 26. Qxg7+ Kxg7 27. Rxd2 Rxd2 28. b5 Qe2# 0-1
+
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 1323)"]
+[Black "Cheater (ELO: 1388)"]
+[Result "0-1"]
+[WhiteElo "1323"]
+[BlackElo "1388"]
+
+1. c4 e5 2. g3 Nf6 3. Nf3 e4 4. Nh4 a5 5. d3 Na6 6. Nc3 exd3 7. e4 Nb4 8. Bxd3 d6 9. Bf1 g6 10. a3 Nc6 11. Qa4 Bg7 12. Be3 Ng4 13. Bd2 O-O 14. Be2 Re8 15. h3 Nh6 16. Qd1 Bxc3 17. Nf3 Bxd2+ 18. Qxd2 Kg7 19. Qc3+ Qf6 20. Qxf6+ Kxf6 21. Ng5 Ke7 22. O-O-O Rb8 23. Nxh7 Ng8 24. f4 Bd7 25. g4 Nf6 26. Ng5 Bc8 27. Bf3 Ng8 28. h4 Nf6 29. Rde1 Nd7 30. Nxf7 Nd4 31. Ng5 Nxf3 32. f5 Nxe1 33. Rxe1 Nc5 34. Rf1 Rf8 35. Rf3 b5 36. f6+ Kd7 37. Nh7 Bb7 38. cxb5 Bxe4 39. Nxf8+ Rxf8 40. Rg3 Rf7 41. b4 axb4 42. g5 b3 43. Kb2 Bd5 44. Rg1 Ke6 45. Re1+ Be4 46. Ka1 d5 47. a4 Nxa4 48. Rf1 b2+ 49. Ka2 b1=Q+ 50. Rxb1 Nc3+ 51. Ka1 Bxb1 52. h5 gxh5 53. g6 Rxf6 54. Kb2 Na4+ 55. Ka3 Rxg6 56. Kb3 Kf6 57. b6 cxb6 58. Kxa4 Ke5 59. Kb3 h4 60. Ka4 Rg4+ 61. Kb3 Rg7 62. Ka4 Rg4+ 63. Kb3 h3 64. Kb2 Bf5 65. Ka2 h2 66. Kb2 Rg3 67. Kc1 Rg2 68. Kd1 Bg4+ 69. Ke1 Re2+ 70. Kf1 h1=R# 0-1
+
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 2577)"]
+[Black "Cheater (ELO: 2670)"]
+[Result "0-1"]
+[WhiteElo "2577"]
+[BlackElo "2670"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Bc5 4. Nge2 Nc6 5. O-O O-O 6. h3 a5 7. Kh1 Kh8 8. f4 d6 9. f5 Nd4 10. Ng3 c6 11. Nce2 d5 12. Nxd4 exd4 13. exd5 Bd6 14. Nh5 Bc7 15. Nf4 cxd5 16. Bd3 g5 17. fxg6 fxg6 18. b3 Ne4 19. Bxe4 dxe4 20. Qe1 Qd6 21. d3 e3 22. Bb2 Kg8 23. Qg3 Rxf4 24. Ba3 Rxf1+ 25. Rxf1 Qxg3 26. Rf8+ Kg7 27. Rf4 Qxf4 28. Bf8+ Qxf8 29. g3 Qf1+ 30. Kh2 Qf2+ 31. Kh1 Qf3+ 32. Kh2 Qf2+ 33. Kh1 Bxg3 34. h4 Qf1# 0-1
+
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 2219)"]
+[Black "Cheater (ELO: 2290)"]
+[Result "1/2-1/2"]
+[WhiteElo "2219"]
+[BlackElo "2290"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bb5 Nd4 5. O-O Nxb5 6. Nxb5 c6 7. Nc3 d6 8. a4 h6 9. h3 g5 10. d4 g4 11. dxe5 Nh7 12. hxg4 Bxg4 13. exd6 Bxd6 14. Qd3 Ng5 15. Nxg5 hxg5 16. e5 Be7 17. Qxd8+ Rxd8 18. b4 b6 19. Ne4 Bf5 20. Nd6+ Bxd6 21. b5 Bb4 22. Be3 Bc3 23. Ra3 Bb4 24. Rb3 Bd2 25. bxc6 g4 26. c7 Rd5 27. c4 Bxe3 28. fxe3 Rc5 29. Rxf5 Rxc7 30. Rd3 Rxc4 31. e6 Rc1+ 32. Kf2 g3+ 33. Kxg3 Rg8+ 34. Kh2 f6 35. Rfd5 Ke7 36. Rd2 Rf1 37. a5 Rh8+ 38. Kg3 Rg8+ 39. Kh2 Rh8+ 40. Kg3 Rg8+ 41. Kh2 Rh8+ 42. Kg3 Rg8+ 43. Kh2 Rh8+ 44. Kg3 Rg8+ 45. Kh2 1/2-1/2
+
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 2160)"]
+[Black "Cheater (ELO: 2179)"]
+[Result "0-1"]
+[WhiteElo "2160"]
+[BlackElo "2179"]
+
+1. Nc3 e6 2. d4 Nf6 3. Bf4 d5 4. Nf3 c5 5. dxc5 Bxc5 6. e3 O-O 7. a3 Nc6 8. Bd3 h6 9. Nb5 Nh5 10. b4 Nxf4 11. exf4 Bb6 12. c3 a6 13. Nbd4 Qd6 14. Qc1 g5 15. fxg5 e5 16. Nf5 Bxf5 17. Bxf5 Ne7 18. Bc2 Rfc8 19. gxh6 Kh8 20. Qd2 f5 21. h4 Rf8 22. Bb3 a5 23. O-O e4 24. bxa5 Bc7 25. Qd4+ Rf6 26. Rad1 exf3 27. Qf4 Qxf4 28. g3 Rg6 29. Kh1 Qg4 30. c4 Qh3+ 31. Kg1 b6 32. h5 Rxg3+ 33. fxg3 Qg2# 0-1
+
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 1800)"]
+[Black "Cheater (ELO: 1922)"]
+[Result "0-1"]
+[WhiteElo "1800"]
+[BlackElo "1922"]
+
+1. e3 Nf6 2. c4 e5 3. b3 d5 4. Nf3 Nc6 5. a3 e4 6. Ng1 Bg4 7. Be2 Be6 8. cxd5 Nxd5 9. Bb2 Qg5 10. g3 O-O-O 11. Qc2 h5 12. h4 Qf5 13. b4 Bd6 14. Nc3 Nxc3 15. Qxc3 Be5 16. Qc1 f6 17. Bc3 Bxc3 18. b5 Bxd2+ 19. Qxd2 Rxd2 20. a4 Na5 21. Bf3 exf3 22. g4 Qd3 23. g5 Re2+ 24. Kf1 Rc2+ 25. Ke1 Qd2+ 26. Kf1 Rc1+ 27. Rxc1 Bh3+ 28. Rxh3 Qxc1# 0-1
+
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 1673)"]
+[Black "Cheater (ELO: 1659)"]
+[Result "0-1"]
+[WhiteElo "1673"]
+[BlackElo "1659"]
+
+1. c4 e5 2. Nc3 Nf6 3. a3 c5 4. e4 Nc6 5. d3 d6 6. Rb1 Nd4 7. Be2 g6 8. Nf3 Bd7 9. O-O b6 10. b4 Bg7 11. h3 O-O 12. Bg5 h6 13. Bd2 Re8 14. Bc1 a6 15. a4 cxb4 16. Rxb4 Bc6 17. Nxd4 exd4 18. Nd5 Nd7 19. Bb2 Nc5 20. g3 b5 21. axb5 axb5 22. Bg4 h5 23. Bf3 bxc4 24. Rxc4 Bb5 25. Bxd4 Ba4 26. Qb1 Bxd4 27. Rxd4 Bb3 28. Nf4 Rb8 29. Qc1 Qf6 30. Qc3 Nd7 31. e5 Nxe5 32. Bh1 h4 33. Ne2 Rec8 34. Qe1 Bc2 35. Qa1 Qd8 36. Be4 hxg3 37. f4 Qd7 38. f5 Nc6 39. Rd5 Bb3 40. Nf4 Nb4 41. fxg6 Nxd5 42. Bxd5 Bxd5 43. Nh5 Rb2 44. gxf7+ Kf8 45. Qxb2 Qa7+ 46. d4 g2 47. Ra1 Qxf7 48. Qa3 Qxh5 49. Re1 Qh6 50. Qg3 Rc1 51. Rxc1 Qxc1+ 52. Kf2 Qf1+ 53. Ke3 g1=Q+ 54. Kd2 Qd1+ 55. Kc3 Qgxd4# 0-1
+
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 1582)"]
+[Black "Cheater (ELO: 1469)"]
+[Result "0-1"]
+[WhiteElo "1582"]
+[BlackElo "1469"]
+
+1. d4 Nf6 2. c3 d5 3. Bf4 Bf5 4. e3 e6 5. Qb3 Qc8 6. c4 c5 7. Nc3 dxc4 8. Qxc4 Be7 9. Nf3 O-O 10. Nh4 cxd4 11. Qxc8 Rxc8 12. exd4 Bb4 13. Nxf5 exf5 14. Bd3 Nd5 15. Bd2 Nxc3 16. a3 Nd5 17. Bxb4 Re8+ 18. Kf1 Nxb4 19. axb4 g6 20. d5 Nd7 21. f3 Re3 22. Bb5 Nb6 23. Re1 Rb3 24. d6 Rxb4 25. d7 Rf8 26. Re8 Nxd7 27. Rxf8+ Nxf8 28. Be2 Kg7 29. g3 Rxb2 30. Kf2 f4 31. Rf1 Ne6 32. Ra1 Nd4 33. Re1 Nxe2 34. Rxe2 fxg3+ 35. hxg3 Rxe2+ 36. Kg1 Ra2 37. g4 a5 38. f4 g5 39. Kf1 a4 40. f5 Rb2 41. Ke1 a3 42. Kd1 a2 43. Ke1 Kf6 44. Kf1 a1=Q# 0-1
+
+[Event "Cheater Simulation"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish (ELO: 1336)"]
+[Black "Cheater (ELO: 1329)"]
+[Result "0-1"]
+[WhiteElo "1336"]
+[BlackElo "1329"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 c6 4. e4 d5 5. cxd5 cxd5 6. Nf3 dxe4 7. Ng5 Nc6 8. Nxe4 Nxe4 9. b3 Bf5 10. Qe2 Nd6 11. O-O e4 12. Bb2 Rc8 13. Ba3 Be7 14. d3 Nd4 15. Qh5 Be6 16. Nd2 O-O 17. dxe4 N6b5 18. Bxe7 Qxe7 19. Rfd1 g6 20. Qh4 f6 21. Nc4 Rfe8 22. Ne3 Kg7 23. Rd3 Rcd8 24. a4 Ne2+ 25. Kh1 Nbd4 26. Nd5 Qf7 27. a5 g5 28. Nc7 Re7 29. Rxd4 Rxc7 30. f4 gxh4 31. f5 Nxd4 32. fxe6 Qxe6 33. e5 f5 34. Rg1 Qh6 35. h3 b5 36. gxh4 b4 37. Bd5+ Kf8 38. a6 Nc2 39. Rg3 Na1 40. Rg5 Ke7 41. Bf3 Nxb3 42. Kh2 Rd2+ 43. Kg3 Nd4 44. Kf4 Qxh4+ 45. Rg4 fxg4 46. hxg4 h5 47. Ke3 Nxf3 48. Kxf3 Rc3+ 49. Ke4 Qxg4# 0-1
+
